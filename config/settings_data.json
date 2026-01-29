@@ -10,6 +10,7 @@
 {
   "current": {
     "storefront_hostname": "www.wildstride.com",
+    "custom_redirects": "/ > /\n/products > /shop\n/products/:handle > /products/:handle\n/collections > /shop\n/collections/:handle > /shop/:handle\n/account > /account\n/account/login > /login\n/account/register > /signup\n/account/addresses > /account\n/account/orders > /account?section=orders\n/cart > /shop\n/search > /search\n/pages/contact > /contact\n/pages/contact-us > /contact\n/pages/about > /our-story\n/pages/about-us > /our-story\n/pages/our-story > /our-story\n/pages/faq > /faq\n/pages/faqs > /faq\n/pages/membership > /membership\n/pages/pricing > /membership\n/pages/gift > /gift\n/pages/gift-cards > /gift\n/pages/community > /community\n/pages/courses > /courses\n/pages/journal > /journal\n/pages/blog > /journal\n/policies/privacy-policy > /privacy\n/policies/terms-of-service > /terms\n/policies/refund-policy > /refund-policy\n/policies/shipping-policy > /shipping-policy\n/blogs/journal > /journal\n/blogs/journal/:handle > /journal/:handle",
     "content_for_index": []
   }
 }
